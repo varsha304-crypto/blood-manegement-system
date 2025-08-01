@@ -598,4 +598,4 @@ Inventory.countDocuments().then(n=>{
   ]);
 });
 
-app.listen(PORT, ()=>console.log("Blood bank system running on http://localhost:"+PORT));
+app.listen(PORT, ()=>console.log("Blood bank system running on http://localhost:"+PORT)); 
